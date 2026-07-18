@@ -79,12 +79,6 @@ git clone https://github.com/Manas09042006/RuleBot---Ruled-Based-Chatbot.git
 cd RuleBot---Ruled-Based-Chatbot
 ```
 
-### 3. Install Dependencies
-
-```bash
-pip install customtkinter
-```
-
 ### 4. Run the Project
 
 ```bash
