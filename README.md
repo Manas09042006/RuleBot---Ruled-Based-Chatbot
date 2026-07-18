@@ -6,21 +6,6 @@ RuleBot provides intelligent predefined responses by matching user input with re
 
 ---
 
-## 📸 Preview
-
-> Add screenshots of your chatbot here.
-
-```
-assets/
-├── screenshot1.png
-├── screenshot2.png
-```
-
-Example:
-
-![RuleBot Screenshot](assets/screenshot1.png)
-
----
 
 # ✨ Features
 
