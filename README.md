@@ -70,7 +70,7 @@ RuleBot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RuleBot---Ruled-Based-Chatbot.git
+git clone https://github.com/Manas09042006/RuleBot---Ruled-Based-Chatbot.git
 ```
 
 ### 2. Navigate to the Project
